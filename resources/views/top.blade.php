@@ -7,7 +7,7 @@
         <title>みんなのお店探し</title>
         <style>
             body {
-              background-image: url("/myproject/public/img/beer.jpg");
+              background-image: url("/public/img/beer.jpg");
               background-size: 100%;
             }
 	    
